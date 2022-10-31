@@ -11,5 +11,6 @@
         //添加你自己的壁纸...... 索引号7
         "https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/8o/wallhaven-8o2dpj.png?w=2560&fmt=webp",
         "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
-        "nothing"
+        "nothing",
+        "2333"
 ]
