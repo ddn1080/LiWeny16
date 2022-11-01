@@ -9,7 +9,7 @@
 
         "https://images2.alphacoders.com/742/742320.png",
         "https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/8o/wallhaven-8o2dpj.png?w=2560&fmt=webp",
-        "https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN",
+        "",
 
         "nothing",
         "2333",
