@@ -15,4 +15,4 @@
         "2333",
         "https://dogefs.s3.ladydaily.com/~/source/wallhaven/full/8o/wallhaven-8o2dpj.png?w=2560&fmt=webp"
 ];
-true;'自动更新图片URL,反正没人喜欢自己加'
+true;'自动更新图片URL,反正没人喜欢自己加';v我50
