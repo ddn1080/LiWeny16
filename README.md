@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Onion
-## 👀 I’m interested in html javascipt css node.js php.....
-## 🌱 I’m currently learning docker
+## 👀 I’m interested in Javascript Golang FPGA STM32 
+## 🌱 I’m currently learning SVM
 ## 💞️ I’m studying in UESTC
 ## 📫 Sending mail to Olderonion@gmail.com/a454888395@gmail.com  with the confirmed infomation:"github.com" is the way to contact me!
 
